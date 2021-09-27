@@ -1,6 +1,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=caputdraconis)](https://solved.ac/caputdraconis/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caputdraconis050630&theme=monokai)
+![](https://raw.githubusercontent.com/caputdraconis050630/caputdraconis050630/master/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/caputdraconis050630/caputdraconis050630/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/caputdraconis050630/caputdraconis050630/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/caputdraconis050630/caputdraconis050630/master/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/caputdraconis050630/caputdraconis050630/master/profile-summary-card-output/solarized/4-productive-time.svg)
+
+
 
 <!--
 [![](https://raw.githubusercontent.com/caputdraconis050630/caputdraconis050630/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
