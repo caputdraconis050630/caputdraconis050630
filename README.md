@@ -5,7 +5,7 @@
 <br />
 <a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7500aedf-a0ca-47af-8f5d-9f6dcdd69a9a/Untitled.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230308T042412Z&X-Amz-Expires=86400&X-Amz-Signature=c43f74cce40d7fe9a1a1680bbc1908c9111a75f4c460d7cd45f08ab3138f5bc1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.gif%22&x-id=GetObject"><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7500aedf-a0ca-47af-8f5d-9f6dcdd69a9a/Untitled.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230308%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230308T042412Z&X-Amz-Expires=86400&X-Amz-Signature=c43f74cce40d7fe9a1a1680bbc1908c9111a75f4c460d7cd45f08ab3138f5bc1&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.gif%22&x-id=GetObject" width="500"></a>
 
-> 제가 생각하는 네트워크 패킷의 귀여운 모습이에요
+> 제가 생각하는 네트워크 패킷의 귀여운 모습이에요😙
 
 
 
