@@ -3,7 +3,7 @@
 - 새로운 것을 학습하고, 이를 나누는 것을 굉장히 좋아합니다.
 
 <br />
-<a href="https://media.tenor.com/WIQgCi3ELvgAAAAC/the-sims-sims.gif" width="500"></a>
+<a href="https://i0.wp.com/media0.giphy.com/media/9x6fPJVGpq9HO/giphy.gif" width="500"></a>
 
 > 제가 생각하는 네트워크 패킷의 귀여운 모습이에요😙
 
