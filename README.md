@@ -1,6 +1,7 @@
 ## Introduction
 - 안녕하세요! Cloud Computing, Wireless Network 을 공부하는 김건탁입니다.
 - 새로운 것을 학습하고, 이를 나누는 것을 굉장히 좋아합니다.
+- 현재 AWS Solution Architect Professional 자격증 취득을 준비하고 있습니다.
 
 <br />
 <a href="https://i0.wp.com/media0.giphy.com/media/9x6fPJVGpq9HO/giphy.gif" width="500"><img src="https://i0.wp.com/media0.giphy.com/media/9x6fPJVGpq9HO/giphy.gif" width="600"></a>
