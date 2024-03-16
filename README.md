@@ -24,5 +24,5 @@
 ## Contact & Channel
 - Email      caputdraconis@kakao.com
 - Github     https://github.com/caputdraconis050630
-- Blog       https://blog.caputdraconis.dev/
+- Blog       https://caputdraconis.tistory.com
 - LinkedIn   https://www.linkedin.com/in/%EA%B1%B4%ED%83%81-%EA%B9%80-3263b4204/
