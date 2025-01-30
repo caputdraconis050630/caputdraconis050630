@@ -32,7 +32,7 @@
 ## Contact & Channel
 - Email      caputdraconis@kakao.com
 - Github     https://github.com/caputdraconis050630
-- Blog       https://blog.caput.cloud
+- Blog       https://caput.cloud
 - LinkedIn   https://www.linkedin.com/in/caputdraconis
 
 
