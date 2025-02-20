@@ -22,7 +22,7 @@
 <a href="https://www.credly.com/badges/b711d1c1-ac6b-4295-a38a-f0c65780c4f7/public_url"><img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="90"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/f6e4fd23-6574-4a31-8a3d-3636bbf7b86f/badges/4472105"><img src="https://cdn.qwiklabs.com/3cUZzotUhC3sWESWmiP9mofbB%2BcZrrX5NiKJEGZBS%2B4%3D" width="90"></a>
 
-## 🦾 Stats
+## Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=caputdraconis050630&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&hide=stars&disable_animations=true&theme=dracula&hide_border=false&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caputdraconis050630&hide_title=false&layout=compact&card_width=320&langs_count=5&disable_animations=true&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
