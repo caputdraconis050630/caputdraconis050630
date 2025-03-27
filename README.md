@@ -19,7 +19,7 @@
 <a href="https://www.credly.com/badges/5b61e0a6-d534-4067-9f5c-302f04e0faae/public_url"><img src="https://images.credly.com/size/340x340/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/377ecfb1-f4b7-431b-87e9-68e2b170e025/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/a39ac2a6-5b9e-4ff1-8b87-85a9c70c436c/public_url"><img src="https://images.credly.com/size/340x340/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="100"></a>
-<a href="https://www.credly.com/badges/b711d1c1-ac6b-4295-a38a-f0c65780c4f7/public_url"><img src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="90"></a>
+<a href="https://www.credly.com/badges/b711d1c1-ac6b-4295-a38a-f0c65780c4f7/public_url"><img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="90"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/f6e4fd23-6574-4a31-8a3d-3636bbf7b86f/badges/4472105"><img src="https://cdn.qwiklabs.com/3cUZzotUhC3sWESWmiP9mofbB%2BcZrrX5NiKJEGZBS%2B4%3D" width="90"></a>
 
 ## Stats
