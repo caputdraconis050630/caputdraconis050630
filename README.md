@@ -14,6 +14,7 @@
 
 ## Certification
 <a href="https://www.credly.com/badges/9f89834f-6368-4916-8441-ae3d70f53a41/public_url"><img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100"></a>
+<a href="https://www.credly.com/badges/d25b1784-2d43-4eac-ae54-e76c907ee24d/public_url"><img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/a272aa9b-c61e-43dc-a147-c3665a6919b7/public_url"><img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/723ea604-35c4-4730-a1fe-1a12a6f6afdc/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/62dc33cd-5c73-4fea-b268-578f8512e5af/public_url"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100"></a>
