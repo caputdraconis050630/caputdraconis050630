@@ -1,15 +1,10 @@
-## Introduction
-- 안녕하세요! Cloud Computing, Wireless Network 을 공부하는 김건탁입니다.
-- 새로운 것을 학습하고, 이를 나누는 것을 굉장히 좋아합니다.
+I'm Guntak Kim(caput), master's student at Inha University, majoring in Electrical and Computer Engineering.  
+My main interests are automation, networking, and cloud technologies—especially serverless computing. Currently, my research focuses on optimizing serverless cold starts.
 
-<br />
-<a href="https://i0.wp.com/media0.giphy.com/media/9x6fPJVGpq9HO/giphy.gif" width="500"><img src="https://i0.wp.com/media0.giphy.com/media/9x6fPJVGpq9HO/giphy.gif" width="600"></a>
+I love exploring new technologies and building innovative services. Right now, I'm working on a toy project: an AI Agent based on MCP.  
+While I enjoy development, I’m even more passionate about designing architectures for new services and refining them through hands-on experience. I learn the most when I realize my initial architectures need improvement and adapt them during development.
 
-> 제가 생각하는 네트워크 패킷의 귀여운 모습이에요😙
-
-
-
-
+I’m also enthusiastic about sharing knowledge. I lead cloud study groups at IGRUS, a campus club, and frequently mentor at hackathons, offering advice based on my experiences.
 
 
 ## Certification
