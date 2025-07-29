@@ -10,6 +10,7 @@ I’m also enthusiastic about sharing knowledge. I lead cloud study groups at IG
 
 
 ## Certification
+<a href="https://www.credly.com/badges/1b39ce5b-1685-40cf-beac-d31c33daaf80/public_url"><img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/9f89834f-6368-4916-8441-ae3d70f53a41/public_url"><img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/d25b1784-2d43-4eac-ae54-e76c907ee24d/public_url"><img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/a272aa9b-c61e-43dc-a147-c3665a6919b7/public_url"><img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100"></a>
