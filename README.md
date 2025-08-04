@@ -16,6 +16,7 @@ I’m also enthusiastic about sharing knowledge. I lead cloud study groups at IG
 <a href="https://www.credly.com/badges/a272aa9b-c61e-43dc-a147-c3665a6919b7/public_url"><img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/723ea604-35c4-4730-a1fe-1a12a6f6afdc/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/62dc33cd-5c73-4fea-b268-578f8512e5af/public_url"><img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100"></a>
+<a href="https://www.credly.com/badges/72ae54a4-c130-49b6-b81b-13f7c86c31d8/public_url"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/5b61e0a6-d534-4067-9f5c-302f04e0faae/public_url"><img src="https://images.credly.com/size/340x340/images/e92b66a6-d4b5-4e86-92f9-a80846fb81e2/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/377ecfb1-f4b7-431b-87e9-68e2b170e025/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100"></a>
 <a href="https://www.credly.com/badges/a39ac2a6-5b9e-4ff1-8b87-85a9c70c436c/public_url"><img src="https://images.credly.com/size/340x340/images/834f2c8d-2d2c-4ce7-9580-02a351c31626/image.png" width="100"></a>
