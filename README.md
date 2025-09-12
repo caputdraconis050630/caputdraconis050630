@@ -1,14 +1,3 @@
-I'm Guntak Kim(caput), master's student at Inha University, majoring in Electrical and Computer Engineering.  
-My main interests are automation, networking, and cloud technologies—especially serverless computing. Currently, my research focuses on optimizing serverless cold starts.
-
-I love exploring new technologies and building innovative services. Right now, I'm working on a toy project: an AI Agent based on MCP.  
-While I enjoy development, I’m even more passionate about designing architectures for new services and refining them through hands-on experience. I learn the most when I realize my initial architectures need improvement and adapt them during development.
-
-Personally, I believe the top-down approach is a great methodology, but whenever time allows, I prefer the bottom-up approach—starting from the fundamentals and principles, then building up step by step.
-
-I’m also enthusiastic about sharing knowledge. I lead cloud study groups at IGRUS, a campus club, and frequently mentor at hackathons, offering advice based on my experiences.
-
-
 ## Certification
 
 <!-- Terraform -->
