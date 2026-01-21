@@ -1,12 +1,12 @@
 ## Certification
 
 <!-- Terraform -->
-<span>
+<!-- <span>
   <a href="https://www.credly.com/badges/b711d1c1-ac6b-4295-a38a-f0c65780c4f7/public_url">
     <img src="https://images.credly.com/size/340x340/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="90">
   </a>
 </span>
-<br />
+<br /> -->
 
 <!------------------------------ Foundational ------------------------------>
 <span>
@@ -51,6 +51,9 @@
 <span>
   <a href="https://www.credly.com/badges/a272aa9b-c61e-43dc-a147-c3665a6919b7/public_url">
     <img src="https://images.credly.com/size/680x680/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100">
+  </a>
+  <a href="https://www.credly.com/badges/f3dc6a57-710e-4ebc-b2ab-ca8948f20f6c/public_url">
+    <img src="https://images.credly.com/size/220x220/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100">
   </a>
 </span>
 
